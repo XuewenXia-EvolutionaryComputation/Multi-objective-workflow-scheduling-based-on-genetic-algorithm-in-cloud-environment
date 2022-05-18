@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="examples"/>
+	<classpathentry kind="src" path="sources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math3-3.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/flanagan.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
